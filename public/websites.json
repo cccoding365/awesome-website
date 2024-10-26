@@ -20,34 +20,34 @@
   {
     "title": "Mock.js",
     "url": "http://mockjs.com/",
-    "description": "No description",
+    "description": "生成随机数据，拦截 Ajax 请求",
     "logo": "./assets/img/logo-2.svg",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ",
+    "title": "Babylon.js",
     "url": "https://www.babylonjs.com/",
-    "description": "No description",
+    "description": "Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best",
     "logo": "/assets/favicon.ico",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Three.js – JavaScript 3D Library",
+    "title": "Three.js",
     "url": "https://threejs.org/",
-    "description": "No description",
+    "description": "JavaScript 3D Library",
     "logo": "files/favicon_white.ico",
     "category": [
       "org"
     ]
   },
   {
-    "title": "Vue.js - The Progressive JavaScript Framework | Vue.jsPlay icon",
+    "title": "Vue.js",
     "url": "https://vuejs.org/",
-    "description": "Vue.js - The Progressive JavaScript Framework",
+    "description": "The Progressive JavaScript Framework",
     "logo": "/logo.svg",
     "category": [
       "org"
@@ -56,7 +56,7 @@
   {
     "title": "Vue CLI",
     "url": "https://cli.vuejs.org/",
-    "description": "🛠️ Standard Tooling for Vue.js Development",
+    "description": "Standard Tooling for Vue.js Development",
     "logo": "/favicon.png",
     "category": [
       "org"
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "title": "@vueuse/motion · @vueuse/motion",
+    "title": "@vueuse/motion",
     "url": "https://motion.vueuse.org/",
-    "description": "🤹 Vue Composables putting your components in motion",
+    "description": "Vue Composables putting your components in motion",
     "logo": null,
     "category": [
       "org"
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "title": "VoidZero | Next Generation Tooling for the Web",
+    "title": "VoidZero",
     "url": "https://voidzero.dev/",
     "description": "We are building the next generation of JavaScript tooling",
     "logo": "/favicon.svg",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "title": "Next.js by Vercel - The React Framework",
+    "title": "Next.js",
     "url": "https://nextjs.org/",
     "description": "Next.js by Vercel is the full-stack React framework for the web.",
     "logo": "/favicon.ico",
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "title": "Nuxt: The Intuitive Vue Framework · Nuxt",
+    "title": "Nuxt",
     "url": "https://nuxt.com/",
     "description": "Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.",
     "logo": "/icon.png",
@@ -119,16 +119,16 @@
   {
     "title": "React",
     "url": "https://react.dev/",
-    "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+    "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. ",
     "logo": "/favicon-32x32.png",
     "category": [
       "dev"
     ]
   },
   {
-    "title": "Redux - A JS library for predictable and maintainable global state management | Redux",
+    "title": "Redux",
     "url": "https://redux.js.org/",
-    "description": "A JS library for predictable and maintainable global state management",
+    "description": "A JS library for predictable and maintainable global state management.",
     "logo": "/img/favicon/favicon.ico",
     "category": [
       "org"
@@ -137,23 +137,23 @@
   {
     "title": "MobX",
     "url": "https://mobx.js.org/",
-    "description": "No description",
+    "description": "Simple, scalable state management.",
     "logo": null,
     "category": [
       "org"
     ]
   },
   {
-    "title": "Guides  | React Router",
+    "title": "React Router",
     "url": "https://reactrouter.com/",
-    "description": "No description",
+    "description": "",
     "logo": "/favicon-light.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Home • Angular",
+    "title": "Angular",
     "url": "https://angular.dev/",
     "description": "The web development framework for building modern apps.",
     "logo": "/assets/icons/favicon.ico",
@@ -162,16 +162,16 @@
     ]
   },
   {
-    "title": "Svelte • Web development for the rest of us",
+    "title": "Svelte",
     "url": "https://svelte.dev/",
-    "description": "No description",
+    "description": "Svelte • Web development for the rest of us",
     "logo": "/favicon.png",
     "category": [
       "dev"
     ]
   },
   {
-    "title": "Font Awesome 6，一套始终绝佳的图标字体库和CSS框架爱",
+    "title": "Font Awesome 6",
     "url": "https://fa6.dashgame.com/",
     "description": "Font Awesome 6，一套始终绝佳的图标字体库和CSS框架。Font Awesome6中文网。",
     "logo": "./assets/img/favicon.ico",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "title": "PostCSS - a tool for transforming CSS with JavaScript",
+    "title": "PostCSS",
     "url": "https://postcss.org/",
     "description": "Transform CSS with the power of JavaScript. Auto-prefixing, future CSS syntaxes, modules, linting and more are possible with hundreds of PostCSS plugins.",
     "logo": "/assets/favicon-DbGqNhKa.ico",
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "title": "\n  Getting started | Less.js\n",
+    "title": "Less",
     "url": "https://lesscss.org/",
     "description": "Less extends CSS with dynamic behavior such as variables, mixins, operations and functions. Less runs on both the server-side (with Node.js and Rhino) or client-side (modern browsers only).\n",
     "logo": "public/ico/favicon.ico",
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+    "title": "Tailwind CSS",
     "url": "https://tailwindcss.com/",
     "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
     "logo": "/favicons/favicon.ico?v=3",
@@ -216,9 +216,9 @@
     ]
   },
   {
-    "title": "Flexbox Froggy - A game for learning CSS flexbox",
+    "title": "Flexbox Froggy",
     "url": "https://flexboxfroggy.com/",
-    "description": "No description",
+    "description": "A game for learning CSS flexbox",
     "logo": null,
     "category": [
       "com"
@@ -227,7 +227,7 @@
   {
     "title": "CSSBattle",
     "url": "https://cssbattle.dev/",
-    "description": "No description",
+    "description": "",
     "logo": "/images/logo-square.png",
     "category": [
       "dev"
@@ -236,14 +236,14 @@
   {
     "title": "Learn CSS Layout",
     "url": "https://learnlayout.com/",
-    "description": "No description",
+    "description": "",
     "logo": "/images/logo.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Online CSS3 Code Generator With a Simple Graphical Interface - EnjoyCSS",
+    "title": "EnjoyCSS",
     "url": "https://enjoycss.com/",
     "description": "EnjoyCSS is an advanced CSS3 generator that saves your time. Its handy and simple UI allows you to adjust rich graphical styles quickly and without coding.",
     "logo": "/ico/enjoy_favicon.png?v=2",
@@ -252,16 +252,16 @@
     ]
   },
   {
-    "title": "CSS-Tricks - A Website About Making Websites",
+    "title": "CSS-Tricks",
     "url": "https://css-tricks.com/",
-    "description": "No description",
+    "description": "A Website About Making Websites",
     "logo": "/favicon.ico",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Animista - On-Demand CSS Animations Library",
+    "title": "Animista",
     "url": "https://animista.net/",
     "description": "Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.",
     "logo": "favicon.ico",
@@ -279,32 +279,32 @@
     ]
   },
   {
-    "title": "Uiverse | The Largest Library of Open-Source UI elements",
+    "title": "Uiverse",
     "url": "https://uiverse.io/",
-    "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects. Uiverse can save you many hours spent on building & customizing UI components for your next project.",
+    "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
     "logo": "/favicon-32x32.png",
     "category": [
       "io"
     ]
   },
   {
-    "title": "https://loading.io/",
+    "title": "Loading Animation",
     "url": "https://loading.io/",
-    "description": "解析失败",
+    "description": "Animation Made Easy.",
     "logo": null,
     "category": []
   },
   {
     "title": "Box Shadows",
     "url": "https://box-shadow.dev/",
-    "description": "No description",
+    "description": "",
     "logo": "/favicon.svg",
     "category": [
       "dev"
     ]
   },
   {
-    "title": "cssinspirationguide - csc inspiration guide online",
+    "title": "csc inspiration",
     "url": "https://csscoco.com/inspiration/#/",
     "description": "csc inspiration guide online",
     "logo": "./logo2.png",
@@ -313,7 +313,7 @@
     ]
   },
   {
-    "title": "deck.js » Modern HTML Presentations",
+    "title": "deck.js",
     "url": "http://imakewebthings.com/deck.js/",
     "description": "A jQuery library for modern HTML presentations",
     "logo": null,
@@ -322,9 +322,9 @@
     ]
   },
   {
-    "title": "\n      \n      Waypoints\n    ",
+    "title": "Waypoints",
     "url": "http://imakewebthings.com/waypoints/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "com"
@@ -333,7 +333,7 @@
   {
     "title": "NavNav+",
     "url": "https://navnav.co/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "co"
@@ -349,16 +349,16 @@
     ]
   },
   {
-    "title": "https://nosir.github.io/cleave.js/",
+    "title": "Cleave.js",
     "url": "https://nosir.github.io/cleave.js/",
-    "description": "解析失败",
+    "description": "Format your <input/> content when you are typing",
     "logo": null,
     "category": []
   },
   {
-    "title": "mescroll -- 精致的下拉刷新和上拉加载js框架",
+    "title": "mescroll",
     "url": "https://www.mescroll.com/",
-    "description": "No description",
+    "description": "精致的下拉刷新和上拉加载js框架",
     "logo": null,
     "category": [
       "com"
@@ -376,14 +376,14 @@
   {
     "title": "Bootswatch",
     "url": "https://bootswatch.com/",
-    "description": "Bootswatch: Free themes for Bootstrap",
+    "description": "Free themes for Bootstrap",
     "logo": null,
     "category": [
       "com"
     ]
   },
   {
-    "title": "A Vue 3 UI Framework | Element Plus",
+    "title": "Element Plus",
     "url": "https://element-plus.org/",
     "description": "A Vue 3 based component library for designers and developers",
     "logo": "/images/element-plus-logo-small.svg",
@@ -392,16 +392,16 @@
     ]
   },
   {
-    "title": "https://ant.design/",
+    "title": "Ant Design",
     "url": "https://ant.design/",
-    "description": "解析失败",
+    "description": "助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」～",
     "logo": null,
     "category": []
   },
   {
-    "title": "https://preview.pro.ant.design/",
+    "title": "Ant Design Pro",
     "url": "https://preview.pro.ant.design/",
-    "description": "解析失败",
+    "description": "",
     "logo": null,
     "category": []
   },
@@ -442,16 +442,16 @@
     ]
   },
   {
-    "title": "iView / View Design 一套企业级 UI 组件库和前端解决方案",
+    "title": "iView",
     "url": "https://www.iviewui.com/",
-    "description": "基于 Vue.js 的 UI 组件库，用于研发企业级中后台产品。iView 官网。",
+    "description": "基于 Vue.js 的 UI 组件库，用于研发企业级中后台产品。",
     "logo": "https://file.iviewui.com/view-design-logo.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "iView Weapp - 一套高质量的微信小程序 UI 组件库",
+    "title": "iView Weapp",
     "url": "https://weapp.iviewui.com/",
     "description": "一套高质量的微信小程序 UI 组件库。",
     "logo": "https://file.iviewui.com/file/favicon.ico",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "title": "Ionic Framework - The Cross-Platform App Development Leader",
+    "title": "Ionic Framework",
     "url": "https://ionicframework.com/",
     "description": "Ionic empowers web developers to build leading cross-platform mobile apps and Progressive Web Apps (PWAs)",
     "logo": "/android-icon-192x192.png",
@@ -471,14 +471,14 @@
   {
     "title": "Wave UI",
     "url": "https://antoniandre.github.io/wave-ui/",
-    "description": "No description",
+    "description": "",
     "logo": "/wave-ui/images/favicon.png",
     "category": [
       "io"
     ]
   },
   {
-    "title": "Vuestic UI — Vue 3 UI frameworkJetBrains icon",
+    "title": "Vuestic UI",
     "url": "https://ui.vuestic.dev/",
     "description": "Vuestic UI is a modern Vue.js UI framework designed to be simple and customizable for applications of any type and scale",
     "logo": "/favicon.ico",
@@ -489,14 +489,14 @@
   {
     "title": "Naive UI",
     "url": "https://www.naiveui.com/",
-    "description": "No description",
+    "description": "",
     "logo": "/assets/naivelogo-BdDVTUmz.svg",
     "category": [
       "com"
     ]
   },
   {
-    "title": "TMUI4.0 | XUI | TMZDY UTS原生组件",
+    "title": "TMUI4.0 | XUI | TMZDY",
     "url": "https://xui.tmui.design/",
     "description": "TMUI4.0 | XUI | TMZDY UTS原生组件",
     "logo": "/favicon.ico",
@@ -505,7 +505,7 @@
     ]
   },
   {
-    "title": "Vuetify — A Vue Component Framework",
+    "title": "Vuetify",
     "url": "https://vuetifyjs.com/",
     "description": "Vuetify is a no design skills required Open Source UI Component Framework for Vue. It provides you with all of the t...",
     "logo": "/favicon.ico",
@@ -514,7 +514,7 @@
     ]
   },
   {
-    "title": "shadcn/uiVercel",
+    "title": "shadcn/ui",
     "url": "https://ui.shadcn.com/",
     "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
     "logo": "/favicon-16x16.png",
@@ -523,16 +523,16 @@
     ]
   },
   {
-    "title": "UmiJS - 插件化的企业级前端应用框架",
+    "title": "UmiJS",
     "url": "https://umijs.org/",
-    "description": "No description",
+    "description": "插件化的企业级前端应用框架",
     "logo": "https://img.alicdn.com/tfs/TB1YHEpwUT1gK0jSZFhXXaAtVXa-28-27.svg",
     "category": [
       "org"
     ]
   },
   {
-    "title": "Flutter - Build apps for any screen",
+    "title": "Flutter",
     "url": "https://flutter.dev/",
     "description": "Flutter transforms the entire app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase.",
     "logo": "https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png",
@@ -541,7 +541,7 @@
     ]
   },
   {
-    "title": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "title": "Electron",
     "url": "https://www.electronjs.org/",
     "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "logo": "/assets/img/favicon.ico",
@@ -561,7 +561,7 @@
   {
     "title": "Axios",
     "url": "https://axios-http.com/",
-    "description": "No description",
+    "description": "Axios is a simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface.",
     "logo": "/assets/favicon.ico",
     "category": [
       "com"
@@ -586,9 +586,9 @@
     ]
   },
   {
-    "title": "webpack",
+    "title": "Webpack",
     "url": "https://webpack.js.org/",
-    "description": "webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+    "description": "Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
     "logo": "/favicon.a3dd58d3142f7566.ico",
     "category": [
       "org"
@@ -615,7 +615,7 @@
   {
     "title": "cdnjs",
     "url": "https://cdnjs.com/",
-    "description": "Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 12.5% of all websites, serving over 200 billion requests each month, powered by Cloudflare. We make it faster and easier to load library files on your websites.",
+    "description": "Simple. Fast. Reliable. Content delivery at its finest. We make it faster and easier to load library files on your websites.",
     "logo": "/favicon.png",
     "category": [
       "com"
@@ -642,16 +642,16 @@
   {
     "title": "Spacing.js",
     "url": "https://spacingjs.com/",
-    "description": "No description",
+    "description": "A JavaScript utility for measuring the spacing between elements on webpage",
     "logo": null,
     "category": [
       "com"
     ]
   },
   {
-    "title": "https://shopify.github.io/",
+    "title": "shopify open source",
     "url": "https://shopify.github.io/",
-    "description": "解析失败",
+    "description": "As a team that greatly benefits from open-source software, these are the projects that we have contributed back to the community.",
     "logo": null,
     "category": []
   },
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "title": "Js Tips - A JavaScript tip per day!",
+    "title": "Js Tips",
     "url": "https://www.jstips.co/",
     "description": "This is about one JavaScript tip every day! JavaScript resources, react, angular, node, performance, front-end",
     "logo": "/favicon.ico",
@@ -674,16 +674,16 @@
     ]
   },
   {
-    "title": "JavaScript Weekly: The JavaScript Email Newsletter",
+    "title": "JavaScript Weekly",
     "url": "https://javascriptweekly.com/",
-    "description": "No description",
+    "description": "The JavaScript Email Newsletter",
     "logo": "/favicon.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Codrops | Fueling web creativity since 2009",
+    "title": "Codrops",
     "url": "https://tympanus.net/",
     "description": "Fueling web creativity since 2009",
     "logo": "https://codrops-1f606.kxcdn.com/codrops/wp-content/themes/codropstheme03/favicons/favicon.ico?x66413&v=2",
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "title": "HTML5 UP! Responsive HTML5 and CSS3 Site Templates",
+    "title": "HTML5 UP",
     "url": "https://html5up.net/",
     "description": "Responsive HTML5 and CSS3 site templates designed by @ajlkn.",
     "logo": "/assets/icons/favicon.ico",
@@ -701,7 +701,7 @@
     ]
   },
   {
-    "title": "Modern.jsGitHubGitHub",
+    "title": "Modern.js",
     "url": "https://modernjs.dev/",
     "description": "A Progressive React Framework for modern web development.",
     "logo": "https://lf3-static.bytednsdoc.com/obj/eden-cn/uhbfnupenuhf/favicon.ico",
@@ -730,7 +730,7 @@
   {
     "title": "美团技术团队",
     "url": "https://tech.meituan.com/",
-    "description": "No description",
+    "description": "",
     "logo": "https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/favicon.ico?v=Whistle&t=20181017-1r",
     "category": [
       "com"
@@ -784,14 +784,14 @@
   {
     "title": "51黑电子论坛",
     "url": "http://www.51hei.com/bbs/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "com"
     ]
   },
   {
-    "title": "Framer — The web builder for stunning sites.",
+    "title": "Framer",
     "url": "https://www.framer.com/",
     "description": "Design and publish modern sites at any scale with Framer’s web builder.",
     "logo": "https://framerusercontent.com/images/Io89FonxEaWg4nxvQQllVLwPUUI.png",
@@ -818,34 +818,34 @@
     ]
   },
   {
-    "title": "https://roadmap.sh/",
+    "title": "Developer Roadmaps",
     "url": "https://roadmap.sh/",
-    "description": "解析失败",
+    "description": "roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.",
     "logo": null,
     "category": []
   },
   {
     "title": "学吧导航",
     "url": "https://www.xue8nav.com/",
-    "description": "学吧导航，超过四十万学习爱好者都在用的专业学习网址大全学霸导航，汇集了国内外优质的学习网站和平台。网站囊括了综合平台、外语学习、编程算法、电脑办公、百科知识、设计剪辑、音乐艺术、文史哲理、医学政经、演讲座谈、数理化生等10余项分类，收录了上百个个优质的国内外学习网站。无论你是在校学生，还是上班人群，亦或是单纯的学习爱好者，无需再苦恼于四处寻找学习网站。",
+    "description": "囊括了综合平台、外语学习、编程算法、电脑办公、百科知识、设计剪辑、音乐艺术、文史哲理、医学政经、演讲座谈、数理化生等10余项分类，收录了上百个个优质的国内外学习网站。",
     "logo": "https://www.xue8nav.com/wp-content/uploads/2020/01/favicon.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "conventionalcommits",
+    "title": "Conventional Commits",
     "url": "https://www.conventionalcommits.org/",
-    "description": "No description",
+    "description": "A specification for adding human and machine readable meaning to commit messages",
     "logo": null,
     "category": [
       "org"
     ]
   },
   {
-    "title": "[搬书匠] - 电子书(EBook)",
+    "title": "搬书匠",
     "url": "http://www.banshujiang.cn/",
-    "description": "[搬书匠] - 电子书(EBook)",
+    "description": "电子书(EBook)",
     "logo": "http://image.banshujiang.cn/favicon.ico",
     "category": [
       "cn"
@@ -917,7 +917,7 @@
   {
     "title": "B3log",
     "url": "https://b3log.org/",
-    "description": "B3log 是一个开源组织，名字来源于“Bulletin Board Blog”缩写，目标是将独立博客与论坛结合，形成一种新的网络社区体验，详细请看 B3log 构思。目前 B3log 已经开源了多款产品：Sym、Solo、Pipe、Vditor、Lute、思源笔记等，欢迎大家加入，贡献开源。",
+    "description": "B3log 是一个开源组织，目标是将独立博客与论坛结合，形成一种新的网络社区体验，详细请看 B3log 构思。",
     "logo": "images/brand/b3log-128.png",
     "category": [
       "org"
@@ -953,7 +953,7 @@
   {
     "title": "闷道",
     "url": "https://maintao.com/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "com"
@@ -978,9 +978,9 @@
     ]
   },
   {
-    "title": "https://garryui.cn/",
+    "title": "GARRY UI",
     "url": "https://garryui.cn/",
-    "description": "解析失败",
+    "description": "",
     "logo": null,
     "category": []
   },
@@ -1005,14 +1005,14 @@
   {
     "title": "前端人的俱乐部",
     "url": "https://f2er.club/",
-    "description": "涉及一些优秀攻城狮的优秀博客、社区，实用的手册、工具，框架/库，以及在线教程和书籍推荐。为大家解决一些基本的，常见的问题和需求做专业的前端平台，提供你需要的东西。解放你的收藏夹，让它们只做最主要的事情",
+    "description": "涉及一些优秀攻城狮的优秀博客、社区，实用的手册、工具，框架/库，以及在线教程和书籍推荐。",
     "logo": "img/favicon.ico",
     "category": [
       "club"
     ]
   },
   {
-    "title": "张洪Heo - 分享设计与科技生活",
+    "title": "张洪Heo",
     "url": "https://blog.zhheo.com/",
     "description": "产品设计师、独立开发者、设计与科技领域自媒体博主",
     "logo": "https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover",
@@ -1030,7 +1030,7 @@
     ]
   },
   {
-    "title": "路人甲 · Passer-by",
+    "title": "路人甲Passer-by",
     "url": "https://passer-by.com/",
     "description": "路人甲个人网站,展示前端开发作品,致力于web开发组件化,Keep It Simple,Stupid",
     "logo": "/public/image/favicon.png",
@@ -1039,7 +1039,7 @@
     ]
   },
   {
-    "title": "www.vox.dx.amChatbot",
+    "title": "www.vox.dx.am",
     "url": "http://vox.dx.am/",
     "description": "",
     "logo": null,
@@ -1066,9 +1066,9 @@
     ]
   },
   {
-    "title": "Clippy — CSS clip-path maker",
+    "title": "Clippy",
     "url": "https://bennettfeely.com/clippy/",
-    "description": "No description",
+    "description": "CSS clip-path maker",
     "logo": "pics/favicon.png",
     "category": [
       "com"
@@ -1084,9 +1084,9 @@
     ]
   },
   {
-    "title": "Asorn - Product Designer",
+    "title": "Asorn",
     "url": "https://asorn.cn/",
-    "description": "No description",
+    "description": "Product Designer",
     "logo": "./assets/public/favicon.svg",
     "category": [
       "cn"
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "title": "Dan Mindru — developer and designer of things.",
+    "title": "Dan Mindru",
     "url": "https://mindrudan.com/",
     "description": "Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.",
     "logo": "/favicon.ico",
@@ -1149,7 +1149,7 @@
   {
     "title": "RPDC小红书",
     "url": "https://rpdc.xiaohongshu.com/",
-    "description": "No description",
+    "description": "",
     "logo": "https://fe-video-qc.xhscdn.com/fe-platfrom/17b3a2c05394eebe744d4e023a9b89c15b438b5a.ico",
     "category": [
       "com"
@@ -1165,14 +1165,14 @@
     ]
   },
   {
-    "title": "https://www.checklist.design/",
+    "title": "Checklist Design",
     "url": "https://www.checklist.design/",
-    "description": "解析失败",
+    "description": "A collection of the best design practices.",
     "logo": null,
     "category": []
   },
   {
-    "title": "Spline - 3D Design tool in the browser with real-time collaboration",
+    "title": "Spline",
     "url": "https://spline.design/",
     "description": "Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, textures, and more.",
     "logo": "/images/icon_favicon16x16.png",
@@ -1183,23 +1183,23 @@
   {
     "title": "Colors",
     "url": "http://color.aurlien.net/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "net"
     ]
   },
   {
-    "title": "Paletton - The Color Scheme Designer",
+    "title": "Paletton",
     "url": "https://paletton.com/",
-    "description": "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
+    "description": "A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
     "logo": "img/favicon-16.png",
     "category": [
       "com"
     ]
   },
   {
-    "title": "uiGradients - Beautiful colored gradients",
+    "title": "uiGradients",
     "url": "https://uigradients.com/",
     "description": "A handpicked collection of beautiful color gradients for designers and developers",
     "logo": "static/images/favicon-32x32.png",
@@ -1208,7 +1208,7 @@
     ]
   },
   {
-    "title": "Coolors - The super fast color palettes generator!",
+    "title": "Coolors",
     "url": "https://coolors.co/",
     "description": "Generate or browse beautiful color combinations for your designs.",
     "logo": "/assets/img/favicon.png",
@@ -1217,7 +1217,7 @@
     ]
   },
   {
-    "title": "DaFont - Download fonts",
+    "title": "DaFont",
     "url": "https://www.dafont.com/",
     "description": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
     "logo": "/img/favicon.ico",
@@ -1226,14 +1226,14 @@
     ]
   },
   {
-    "title": "https://www.fontspace.com/",
+    "title": "FontSpace",
     "url": "https://www.fontspace.com/",
-    "description": "解析失败",
+    "description": "Free downloads of legally licensed fonts that are perfect for your design projects.",
     "logo": null,
     "category": []
   },
   {
-    "title": "zhongguose － 传统颜色",
+    "title": "zhongguose 传统颜色",
     "url": "https://www.zhongguose.com/",
     "description": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。AI制作中国色图片和视频",
     "logo": "img/favicon.ico",
@@ -1242,7 +1242,7 @@
     ]
   },
   {
-    "title": "NIPPON COLORS - 日本の伝統色",
+    "title": "NIPPON COLORS 日本の伝統色",
     "url": "https://nipponcolors.com/",
     "description": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
     "logo": "favicon.ico",
@@ -1251,7 +1251,7 @@
     ]
   },
   {
-    "title": "unDraw - Open source illustrations for any idea",
+    "title": "unDraw",
     "url": "https://undraw.co/",
     "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
     "logo": "/favicon.ico",
@@ -1269,7 +1269,7 @@
     ]
   },
   {
-    "title": "Color Hunt - Color Palettes for Designers and Artists",
+    "title": "Color Hunt",
     "url": "https://colorhunt.co/",
     "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
     "logo": "/img/colorhunt-favicon.svg?2",
@@ -1287,7 +1287,7 @@
     ]
   },
   {
-    "title": "Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨",
+    "title": "Flat UI Colors",
     "url": "https://flatuicolors.com/",
     "description": "280 handpicked colors ready for COPY & PASTE",
     "logo": "static/favicon.ico",
@@ -1305,7 +1305,7 @@
     ]
   },
   {
-    "title": "One Page Love - One Page Website Inspiration and Templates",
+    "title": "One Page Love",
     "url": "https://onepagelove.com/",
     "description": "One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.",
     "logo": "https://onepagelove.com/wp-content/themes/onepagelove/frontend/img/favicon/favicon-32x32.png",
@@ -1314,16 +1314,16 @@
     ]
   },
   {
-    "title": "免费的图标、剪贴画插图、照片和音乐",
+    "title": "ICONS8",
     "url": "https://igoutu.cn/",
-    "description": "免费下载设计素材：图标、照片、矢量插图和视频音乐。所有素材均由设计师制作 → 质量始终如一⚡️",
+    "description": "免费下载设计素材：图标、照片、矢量插图和视频音乐。所有素材均由设计师制作 → 质量始终如一",
     "logo": "https://igoutu.cn/vue-static/landings/primary-landings/favs/icons8_fav_32×32.png",
     "category": [
       "cn"
     ]
   },
   {
-    "title": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+    "title": "Vector Icons and Stickers",
     "url": "https://www.flaticon.com/",
     "description": "Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats",
     "logo": "https://www.flaticon.com/media/dist/min/img/favicon.ico",
@@ -1332,16 +1332,16 @@
     ]
   },
   {
-    "title": "Generate unique SVG design assets | Haikei",
+    "title": "Haikei",
     "url": "https://haikei.app/",
-    "description": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.",
+    "description": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!",
     "logo": null,
     "category": [
       "app"
     ]
   },
   {
-    "title": "ICONSVG - Quick customizable SVG icons for your project",
+    "title": "ICONSVG",
     "url": "https://iconsvg.xyz/",
     "description": "Simple tool to find, customize and generate common SVG icons for your project",
     "logo": "/favicon-32.png",
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "title": "Slackmojis - The Best Custom Slack Emojis",
+    "title": "Slackmojis",
     "url": "https://slackmojis.com/",
     "description": "The best emojis for your Slack chats. Download all the custom emojis and animated emojis for your rooms. They work as custom Microsoft Teams Emojis too!",
     "logo": null,
@@ -1377,7 +1377,7 @@
     ]
   },
   {
-    "title": "Feather – Simply beautiful open source icons",
+    "title": "Feather",
     "url": "https://feathericons.com/",
     "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
     "logo": "favicon-32x32.png",
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "title": "Remix Icon - Open source icon library",
+    "title": "Remix Icon",
     "url": "https://remixicon.com/",
     "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
     "logo": "//www.remixicon.com/img/remixicon-logo.svg",
@@ -1395,16 +1395,16 @@
     ]
   },
   {
-    "title": "https://heroicons.com/",
+    "title": "heroicons",
     "url": "https://heroicons.com/",
-    "description": "解析失败",
+    "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
     "logo": null,
     "category": []
   },
   {
     "title": "Icônes",
     "url": "https://icones.js.org/",
-    "description": "No description",
+    "description": "",
     "logo": "/favicon.svg",
     "category": [
       "org"
@@ -1420,7 +1420,7 @@
     ]
   },
   {
-    "title": "Refero — UI/UX Design References for Your Next Project",
+    "title": "Refero",
     "url": "https://refero.design/",
     "description": "The largest collection of UI/UX references and design inspiration for web and iOS. Explore tens of thousands of screenshots with advanced search capabilities",
     "logo": "https://refero.design/favicon.ico",
@@ -1465,9 +1465,9 @@
     ]
   },
   {
-    "title": "https://wallhaven.cc/",
+    "title": "wallhaven",
     "url": "https://wallhaven.cc/",
-    "description": "解析失败",
+    "description": "The best wallpapers on the Net!",
     "logo": null,
     "category": []
   },
@@ -1499,9 +1499,9 @@
     ]
   },
   {
-    "title": "coderutil",
+    "title": "程序员盒子",
     "url": "https://www.coderutil.com/",
-    "description": "程序员盒子 (coderutil)-最适合初学者的编程工具资源社区，丰富的在线工具网址大全、高质量的技术博文分享、火爆的程序员交友讨论社区、完全免费开发API接口、海量免费程序员学习资料电子书下载网站。技术架构采用前后端分离、基于SpringBoot、SpringCloud分布式微服务架构设计、MySQL&Redis NoSQl数据高性能缓存服务架构。",
+    "description": "最适合初学者的编程工具资源社区，丰富的在线工具网址大全、高质量的技术博文分享、火爆的程序员交友讨论社区、完全免费开发API接口、海量免费程序员学习资料电子书下载网站。",
     "logo": "/favicon.ico",
     "category": [
       "com"
@@ -1510,7 +1510,7 @@
   {
     "title": "VisuAlgo",
     "url": "https://visualgo.net/",
-    "description": "VisuAlgo was conceptualised in 2011 by Dr Steven Halim as a tool to help his students better understand data structures and algorithms, by allowing them to learn the basics on their own and at their own pace. Together with his students from the National University of Singapore, a series of visualizations were developed and consolidated, from simple sorting algorithms to complex graph data structures. Though specifically designed for the use of NUS students taking various data structure and algorithm classes (CS1010/equivalent, CS2040/equivalent, CS3230, CS3233, and CS4234), as advocators of online learning, we hope that curious minds around the world will find these visualizations useful as well.",
+    "description": "VisuAlgo was conceptualised in 2011 by Dr Steven Halim as a tool to help his students better understand data structures and algorithms.",
     "logo": "https://visualgo.net/img/favicon.png",
     "category": [
       "net"
@@ -1546,28 +1546,28 @@
   {
     "title": "低端影视",
     "url": "https://ddys.pro/",
-    "description": "解析失败",
+    "description": "超清在线视频站",
     "logo": null,
     "category": []
   },
   {
-    "title": "https://www.cnysvod.com/",
+    "title": "CN影院",
     "url": "https://www.cnysvod.com/",
-    "description": "解析失败",
+    "description": "海外华人影院",
     "logo": null,
     "category": []
   },
   {
     "title": "爱壹帆",
     "url": "https://www.iyf.tv/",
-    "description": "解析失败",
+    "description": "海量高清视频免费观看",
     "logo": null,
     "category": []
   },
   {
-    "title": "tool.lu",
+    "title": "在线工具",
     "url": "https://tool.lu/",
-    "description": "No description",
+    "description": "你的工具箱",
     "logo": null,
     "category": [
       "lu"
@@ -1576,24 +1576,24 @@
   {
     "title": "UU在线工具",
     "url": "https://uutool.cn/",
-    "description": "UU在线工具是一个免费便捷的在线工具站，无需下载，即来即用，简洁高效，让数据处理更简单和高效。",
+    "description": "一个免费便捷的在线工具站，无需下载，即来即用，简洁高效，让数据处理更简单和高效。",
     "logo": "/assets/images/favicon.png",
     "category": [
       "cn"
     ]
   },
   {
-    "title": "https://pagespeed.web.dev/",
+    "title": "PageSpeed Insights",
     "url": "https://pagespeed.web.dev/",
-    "description": "解析失败",
+    "description": "使您的网页在所有设备上都能快速加载",
     "logo": null,
     "category": []
   },
   {
     "title": "LaTeX公式编辑器",
     "url": "https://www.latexlive.com/",
-    "description": "识别图片中的公式！免费的在线LaTeX公式编辑器。支持SVG、超大PNG、JPG、MathML、带有命名空间前缀的MathML、SVGCode、HTML、OMML、Word文档等多种格式导出。可以打出任何公式，不只是数学！支持物理physics、化学mhchem、unicode等常用扩展宏包加载。即时渲染，基于MathJax实现。Math formulas images OCR! A free online LaTeX formula editor. Supports exporting in multiple formats including SVG, large PNG, JPG, MathML, MathML with namespace prefixes, SVGCode, HTML, OMML, and Word documents. You can create any formula, not just mathematical ones! Supports common extension packages such as physics, mhchem for chemistry, and unicode. Instant rendering powered by MathJax.",
-    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANEAAADZCAIAAAAxC0LVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAGOWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpBdHRyaWI9Imh0dHA6Ly9ucy5hdHRyaWJ1dGlvbi5jb20vYWRzLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgeG1wOkNyZWF0b3JUb29sPSJDYW52YSIgeG1wOkNyZWF0ZURhdGU9IjIwMjItMTAtMjdUMTE6NDI6MjcrMDg6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIyLTEwLTI3VDExOjQ0OjI2KzA4OjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIyLTEwLTI3VDExOjQ0OjI2KzA4OjAwIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ZTU2MmQ2OTItY2RhYy00YTRhLWE2MzItOWY2YmY5ZmViZjk5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOmU1NjJkNjkyLWNkYWMtNGE0YS1hNjMyLTlmNmJmOWZlYmY5OSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmU1NjJkNjkyLWNkYWMtNGE0YS1hNjMyLTlmNmJmOWZlYmY5OSI+IDxBdHRyaWI6QWRzPiA8cmRmOlNlcT4gPHJkZjpsaSBBdHRyaWI6Q3JlYXRlZD0iMjAyMi0xMC0yNiIgQXR0cmliOkV4dElkPSJiOGRmZmNhMi0wOGViLTRiMDUtOGIyZi01NTRhMGIzYTc0ZjIiIEF0dHJpYjpUb3VjaFR5cGU9IjIiLz4gPC9yZGY6U2VxPiA8L0F0dHJpYjpBZHM+IDxkYzp0aXRsZT4gPHJkZjpBbHQ+IDxyZGY6bGkgeG1sOmxhbmc9IngtZGVmYXVsdCI+SiAtIDE8L3JkZjpsaT4gPC9yZGY6QWx0PiA8L2RjOnRpdGxlPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDplNTYyZDY5Mi1jZGFjLTRhNGEtYTYzMi05ZjZiZjlmZWJmOTkiIHN0RXZ0OndoZW49IjIwMjItMTAtMjdUMTE6NDQ6MjYrMDg6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4bDGLTAAAKeklEQVR42u3d+1dU1xkG4PyNrU1bNJWYJsaiNUgEpICACgUJZFR0SohVohQS8AKiKAQHBYsIogIDOAhIERCR20iGsYGve2dYCkYtwzlnn3153/X96FrqzDP7nH3/gBBEbD7AR4DAHAJzCAJzCMwhCMwhMIcgMIfAHAJzCAJzCMwhCMwhMIcgMIfA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",
+    "description": "识别图片中的公式！免费的在线LaTeX公式编辑器。",
+    "logo": null,
     "category": [
       "com"
     ]
@@ -1637,16 +1637,16 @@
   {
     "title": "在线JSON校验格式化工具",
     "url": "https://www.bejson.com/",
-    "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具",
+    "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线文字对比工具",
     "logo": null,
     "category": [
       "com"
     ]
   },
   {
-    "title": "cubic-bezier.com",
+    "title": "cubic-bezier",
     "url": "https://cubic-bezier.com/",
-    "description": "No description",
+    "description": "",
     "logo": "about:blank",
     "category": [
       "com"
@@ -1655,7 +1655,7 @@
   {
     "title": "Font2Web",
     "url": "https://www.font2web.com/",
-    "description": "Font2Web - Your Online Font Converter Converting .ttf and .otf to .woff, .eot and.svg",
+    "description": "Your Online Font Converter Converting .ttf and .otf to .woff, .eot and.svg",
     "logo": null,
     "category": [
       "com"
@@ -1664,8 +1664,8 @@
   {
     "title": "Convertio",
     "url": "https://convertio.co/",
-    "description": "Convertio - Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.",
-    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpFNDY1NDg3RDc3N0JFODExODNENjlCOEE4NDIwQ0ZCMyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNzIyRUYxOUU2OEMxMUU5OENDMkRGRDY2MUEyMUNEMCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNzIyRUYxOEU2OEMxMUU5OENDMkRGRDY2MUEyMUNEMCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjBBQzRBRDc4OEJFNkU5MTE5RDNFOEE4MDBCRkY0NDZDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkU0NjU0ODdENzc3QkU4MTE4M0Q2OUI4QTg0MjBDRkIzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6G+jpQAAA/9JREFUeNq0V1lIlFEU/kZbjPYkEysospJGbBW1KAgX2qCHFIpepOVBBFHBpiQiIjIXFIveUiIhCcqXVoPqoZ0CM1qgtB5EsEItNR2TtHO8d3Lm/8//z6/pgY9h/nvvOd+992zXNbR+PRzKDMJOwlbCGsJSwmw99pPwhfCa8JBwi9DjRKnLAYFogoewjzDdIdlfhFpCMaHJbmKIzVgY4SzhHeHQKIxDzz2k1xZrXaMisIzwTO98CsYuvPaI1hVtT+DVKwVgHeGJvufxEtb1eFj3iB3hBDZsYJZ3CQsw/rJgWLeyITrhNH1Uq23VREQACQnA8uVAeDjw5w/Q0QG8eaN21tUVjAhNRCKhj/9M8hs4aWvc5QJSU4H0dMDtBqZONc/p7QWuXQOqqykILaMwTtvy+J8AO90HwmRnGYFSQloacOAAEBlpHm9tBXJzKTN8sdIwQFjFIerzgaOWxtlYUlLgN95dXR2QkQHU15vXLFwIXLigrkuWydrmsBPO1ElGmEbzSkuB8nIgPt483kfXePw4cOWK7CsVFUBoqBWJvWybCewQkwzf+YkTyrCPSEyMWc3QkDJ05455bOVK2to+u2S1gwkki8PZ2cD27YFXcf48sHixTKKoCPj2zTx2+DDtc6YVieQQ7ZWBwp6emWmePncucO6c+pUioLZW2CdtNCXFMiJCdASMCO/a47GOAD4BPvIwIb03NMhrOG9YpHwmMOvfX75vvne+fzuJjQXOnCEXNpSSzk55flSUlaZZnAf6xYJz+TJF6irzkt27VZz/S+ZEoqwM2LIleP4YoPDPyQFevvR9+c1bkHOnvxF/mTcv8P/gIFBYCLx9a2+c55065W+cpYsJNIsLHj2SFa1da/7m9QJ5eUBLizWBkhIpVJtDdHEwy4MHQHe3+fv+/cqzjcL3z8cr+cGlS6pGCIWJCdwXCfCuamrM37kCHjsmOyqfQFZWYCHiXXNaluU+E7itezizMIGPH83ft20D8vNlEk3UAhYUKIfj++Z750QlZA627auGFwkHRRKLFgFVVWrnRrl3Dzh9WiUho3ABa2yUx5RUcd/oI8BdynvLirhkCVBZqaqcUdraVP1nMj2OOnFfOaamAp9CT6ok0aH7/k3i9B8/gBs3VMyvWKGKk3+N2LxZFZ1EanT6Ka18/hyMAJVXXJVasudibTDmdk6tcXEqJzCp9nZ19y9eyAXJ3JIlaR/wI8D9nGoYnxLmY2LkO2Ej2WoiW0JXzAPk44SvE2D867BuZSPo04xP4nrQ63AufOx7pGea1cuIJ3INLdEeO1YZ0DoSrN6Idm9Dr26d3TpP9I7CcJ+Oc7fW4f2f17H/83yX4Xk+xxeohuf5TafP878CDADrJR+o7JYu7QAAAABJRU5ErkJggg==",
+    "description": "Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.",
+    "logo": null,
     "category": [
       "co"
     ]
@@ -1691,7 +1691,7 @@
   {
     "title": "Text To Speech",
     "url": "https://www.text-to-speech.cn/",
-    "description": "Text To Speech，文本转语音，文本朗读，让机器能够说话。构建自然说话的应用和服务，从 147 种语言和变体中选择 456 种语音。借助高表现力和类似人类的神经语音，让你的方案生动起来。",
+    "description": "文本转语音，文本朗读，让机器能够说话。构建自然说话的应用和服务，从 147 种语言和变体中选择 456 种语音。借助高表现力和类似人类的神经语音，让你的方案生动起来。",
     "logo": "img/speech.png",
     "category": [
       "cn"
@@ -1709,14 +1709,14 @@
   {
     "title": "接口大全",
     "url": "https://www.free-api.com/",
-    "description": "接口大全-免费API,为您收集免费的接口服务,做一个api的搬运工",
+    "description": "免费API,为您收集免费的接口服务,做一个api的搬运工",
     "logo": "/image/logo.ico",
     "category": [
       "com"
     ]
   },
   {
-    "title": "AngryTools.com - Angry Web Tools",
+    "title": "Angry Web Tools",
     "url": "https://angrytools.com/",
     "description": "Angrytools offer free online tools for web development and mobile application. online gradient generator for browser and android devices",
     "logo": "/include/img/favicon-32x32.png",
@@ -1752,25 +1752,25 @@
     ]
   },
   {
-    "title": "Beautiful web app screenshots | Webframe",
+    "title": "Webframe",
     "url": "https://webframe.xyz/",
-    "description": "A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱",
+    "description": "A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls!",
     "logo": null,
     "category": [
       "xyz"
     ]
   },
   {
-    "title": "https://certbot.eff.org/",
+    "title": "Certbot",
     "url": "https://certbot.eff.org/",
-    "description": "解析失败",
+    "description": "",
     "logo": null,
     "category": []
   },
   {
     "title": "PokéAPI",
     "url": "https://pokeapi.co/",
-    "description": "No description",
+    "description": "All the Pokémon data you'll ever need in one place, easily accessible through a modern free open-source RESTful API.",
     "logo": "/pokeapi_192_square.png",
     "category": [
       "co"
@@ -1797,7 +1797,7 @@
   {
     "title": "FontAwesome",
     "url": "https://fontawesome.com.cn/",
-    "description": "Fontawesome中文版webfont,是一款基于css框架的网页字体图标库，它完全免费",
+    "description": "一款基于css框架的网页字体图标库，它完全免费",
     "logo": null,
     "category": [
       "cn"
@@ -1822,9 +1822,9 @@
     ]
   },
   {
-    "title": "thispersondoesnotexist",
+    "title": "this person does not exist",
     "url": "https://thispersondoesnotexist.com/",
-    "description": "No description",
+    "description": "",
     "logo": null,
     "category": [
       "com"
@@ -1833,14 +1833,14 @@
   {
     "title": "全历史",
     "url": "https://www.allhistory.com/",
-    "description": "No description",
+    "description": "",
     "logo": "/favicon.ico",
     "category": [
       "com"
     ]
   },
   {
-    "title": "Silk – Interactive Generative Art",
+    "title": "Silk",
     "url": "http://weavesilk.com/",
     "description": "Silk – Interactive Generative Art",
     "logo": "/favicon.ico",
@@ -1876,14 +1876,14 @@
     ]
   },
   {
-    "title": "AI-girl-image-generator",
+    "title": "AI girl image generator",
     "url": "https://perchance.org/ai-girl-image-generator",
-    "description": "解析失败",
+    "description": "",
     "logo": null,
     "category": []
   },
   {
-    "title": "Engaged | Omnichannel Brand Activation Agency",
+    "title": "Engaged",
     "url": "https://engaged.be/",
     "description": "We are a leading omnichannel brand activation agency helping brands get results by engaging with people in memorable experiences.",
     "logo": "/favicon-dark.ico",

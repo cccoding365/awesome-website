@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { ArrowTopRightIcon } from "@radix-ui/react-icons"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import {
     Select,
@@ -75,7 +76,7 @@ export default function Home() {
                         placeholder="Search websites..."
                         value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
-                        className="w-full bg-white p-3"
+                        className="w-full bg-white"
                     />
                     <Select onValueChange={setSelectedCategory}>
                         <SelectTrigger className="w-[200px] bg-white">
@@ -98,17 +99,17 @@ export default function Home() {
                     {filteredWebsites.map((website, index) => (
                         <Card key={index} className="overflow-hidden flex flex-col">
                             <CardHeader className="pb-0">
-                                <CardTitle className="text-lg line-clamp-1">{website.title.split('-')[0]}</CardTitle>
+                                <CardTitle className="text-lg line-clamp-1">{website.title}</CardTitle>
                             </CardHeader>
                             <CardContent>
                                 <div className="text-sm text-muted-foreground line-clamp-3">
-                                    {website.description || 'No description available'}
+                                    {website.description || 'No description'}
                                 </div>
                             </CardContent>
-                            <CardFooter className="flex justify-between items-center mt-auto">
+                            <CardFooter className="flex justify-end items-center mt-auto">
                                 <Button asChild>
                                     <Link href={website.url} target="_blank" rel="noopener noreferrer">
-                                        Visit Site
+                                        <ArrowTopRightIcon className="w-4 h-4"></ArrowTopRightIcon>
                                     </Link>
                                 </Button>
                             </CardFooter>
