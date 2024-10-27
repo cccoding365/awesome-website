@@ -17,6 +17,9 @@ const geistMono = localFont({
 export const metadata = {
   title: "Awesome Website - Collect excellent websites",
   description: "Some of my favorite sites",
+    icons:{
+      icon:"/globe.svg",
+    }
 };
 
 export default function RootLayout({ children }) {

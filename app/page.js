@@ -43,30 +43,30 @@ export default function Home() {
     return (
         <div className="flex h-screen bg-gray-100">
             {/* Left sidebar */}
-            <div className="w-64 bg-white p-4 shadow-md">
-                <h2 className="text-xl font-bold mb-4">Categories</h2>
-                <ScrollArea className="h-[calc(100vh-8rem)]">
-                    <div className="space-y-2">
-                        <Button
-                            variant={selectedCategory === null ? "secondary" : "ghost"}
-                            className="w-full justify-start"
-                            onClick={() => setSelectedCategory(null)}
-                        >
-                            All
-                        </Button>
-                        {categories.map(category => (
-                            <Button
-                                key={category}
-                                variant={selectedCategory === category ? "secondary" : "ghost"}
-                                className="w-full justify-start"
-                                onClick={() => setSelectedCategory(category)}
-                            >
-                                {category}
-                            </Button>
-                        ))}
-                    </div>
-                </ScrollArea>
-            </div>
+            {/*<div className="w-64 bg-white p-4 shadow-md">*/}
+            {/*    <h2 className="text-xl font-bold mb-4">Categories</h2>*/}
+            {/*    <ScrollArea className="h-[calc(100vh-8rem)]">*/}
+            {/*        <div className="space-y-2">*/}
+            {/*            <Button*/}
+            {/*                variant={selectedCategory === null ? "secondary" : "ghost"}*/}
+            {/*                className="w-full justify-start"*/}
+            {/*                onClick={() => setSelectedCategory(null)}*/}
+            {/*            >*/}
+            {/*                All*/}
+            {/*            </Button>*/}
+            {/*            {categories.map(category => (*/}
+            {/*                <Button*/}
+            {/*                    key={category}*/}
+            {/*                    variant={selectedCategory === category ? "secondary" : "ghost"}*/}
+            {/*                    className="w-full justify-start"*/}
+            {/*                    onClick={() => setSelectedCategory(category)}*/}
+            {/*                >*/}
+            {/*                    {category}*/}
+            {/*                </Button>*/}
+            {/*            ))}*/}
+            {/*        </div>*/}
+            {/*    </ScrollArea>*/}
+            {/*</div>*/}
 
             {/* Main content */}
             <div className="flex-1 p-8 overflow-auto">
