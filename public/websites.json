@@ -2,7 +2,7 @@
   {
     "title": "animata",
     "url": "https://animata.design/",
-    "description": "Hand-crafted animated components that you can copy and paste into your apps. Free & Open Source.",
+    "description": "Hand-crafted animated components that you can copy and paste into your apps.",
     "logo": "/favicon-16x16.png",
     "category": [
       "design"
@@ -11,7 +11,7 @@
   {
     "title": "GSAP",
     "url": "https://gsap.com/",
-    "description": "GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.",
+    "description": "An industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.",
     "logo": "/favicon-32x32.png",
     "category": [
       "com"
@@ -20,7 +20,7 @@
   {
     "title": "Mock.js",
     "url": "http://mockjs.com/",
-    "description": "生成随机数据，拦截 Ajax 请求",
+    "description": "生成随机数据，拦截 Ajax 请求。",
     "logo": "./assets/img/logo-2.svg",
     "category": [
       "com"
@@ -29,7 +29,7 @@
   {
     "title": "Babylon.js",
     "url": "https://www.babylonjs.com/",
-    "description": "Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best",
+    "description": "Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best.",
     "logo": "/assets/favicon.ico",
     "category": [
       "com"
@@ -38,7 +38,7 @@
   {
     "title": "Three.js",
     "url": "https://threejs.org/",
-    "description": "JavaScript 3D Library",
+    "description": "A JavaScript 3D Library.",
     "logo": "files/favicon_white.ico",
     "category": [
       "org"
@@ -47,7 +47,7 @@
   {
     "title": "Vue.js",
     "url": "https://vuejs.org/",
-    "description": "The Progressive JavaScript Framework",
+    "description": "The Progressive JavaScript Framework.",
     "logo": "/logo.svg",
     "category": [
       "org"
@@ -56,7 +56,7 @@
   {
     "title": "Vue CLI",
     "url": "https://cli.vuejs.org/",
-    "description": "Standard Tooling for Vue.js Development",
+    "description": "Standard Tooling for Vue.js Development.",
     "logo": "/favicon.png",
     "category": [
       "org"
@@ -65,7 +65,7 @@
   {
     "title": "VueUse",
     "url": "https://vueuse.org/",
-    "description": "Collection of essential Vue Composition Utilities",
+    "description": "Collection of essential Vue Composition Utilities.",
     "logo": "/favicon.ico",
     "category": [
       "org"
@@ -74,7 +74,7 @@
   {
     "title": "@vueuse/motion",
     "url": "https://motion.vueuse.org/",
-    "description": "Vue Composables putting your components in motion",
+    "description": "Vue Composables putting your components in motion.",
     "logo": null,
     "category": [
       "org"
@@ -83,7 +83,7 @@
   {
     "title": "Vue Data UI",
     "url": "https://vue-data-ui.graphieros.com/",
-    "description": "A user-empowering data visualization Vue3 components library for eloquent data storytelling",
+    "description": "A user-empowering data visualization Vue3 components library for eloquent data storytelling.",
     "logo": "/favicon.ico",
     "category": [
       "com"
@@ -92,7 +92,7 @@
   {
     "title": "VoidZero",
     "url": "https://voidzero.dev/",
-    "description": "We are building the next generation of JavaScript tooling",
+    "description": "We are building the next generation of JavaScript tooling.",
     "logo": "/favicon.svg",
     "category": [
       "dev"
@@ -101,7 +101,7 @@
   {
     "title": "Next.js",
     "url": "https://nextjs.org/",
-    "description": "Next.js by Vercel is the full-stack React framework for the web.",
+    "description": "The full-stack React framework for the web.",
     "logo": "/favicon.ico",
     "category": [
       "org"
@@ -110,7 +110,7 @@
   {
     "title": "Nuxt",
     "url": "https://nuxt.com/",
-    "description": "Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.",
+    "description": "An open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.",
     "logo": "/icon.png",
     "category": [
       "com"
@@ -173,7 +173,7 @@
   {
     "title": "Font Awesome 6",
     "url": "https://fa6.dashgame.com/",
-    "description": "Font Awesome 6，一套始终绝佳的图标字体库和CSS框架。Font Awesome6中文网。",
+    "description": "一套始终绝佳的图标字体库和CSS框架。",
     "logo": "./assets/img/favicon.ico",
     "category": [
       "com"
@@ -200,7 +200,7 @@
   {
     "title": "styled-components",
     "url": "https://styled-components.com/",
-    "description": "CSS for the <Component> Age",
+    "description": "CSS for the <Component> Age.",
     "logo": "/atom.png",
     "category": [
       "com"
@@ -218,7 +218,7 @@
   {
     "title": "Flexbox Froggy",
     "url": "https://flexboxfroggy.com/",
-    "description": "A game for learning CSS flexbox",
+    "description": "A game for learning CSS flexbox.",
     "logo": null,
     "category": [
       "com"
@@ -236,7 +236,7 @@
   {
     "title": "Learn CSS Layout",
     "url": "https://learnlayout.com/",
-    "description": "",
+    "description": "This site teaches the CSS fundamentals that are used in any website's layout.",
     "logo": "/images/logo.png",
     "category": [
       "com"
@@ -324,7 +324,7 @@
   {
     "title": "Waypoints",
     "url": "http://imakewebthings.com/waypoints/",
-    "description": "",
+    "description": "Waypoints is the easiest way to trigger a function when you scroll to an element.",
     "logo": null,
     "category": [
       "com"
@@ -471,7 +471,7 @@
   {
     "title": "Wave UI",
     "url": "https://antoniandre.github.io/wave-ui/",
-    "description": "",
+    "description": "A Vue.js UI framework with only the bright side.",
     "logo": "/wave-ui/images/favicon.png",
     "category": [
       "io"
@@ -489,7 +489,7 @@
   {
     "title": "Naive UI",
     "url": "https://www.naiveui.com/",
-    "description": "",
+    "description": "一个 Vue 3 组件库，比较完整，主题可调，使用 TypeScript，快有点意思",
     "logo": "/assets/naivelogo-BdDVTUmz.svg",
     "category": [
       "com"
@@ -552,7 +552,7 @@
   {
     "title": "Framework7",
     "url": "https://framework7.io/",
-    "description": "Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps",
+    "description": "Full Featured Framework For Building iOS, Android & Desktop Apps",
     "logo": "/i/favicon.png",
     "category": [
       "io"
@@ -561,7 +561,7 @@
   {
     "title": "Axios",
     "url": "https://axios-http.com/",
-    "description": "Axios is a simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface.",
+    "description": "A simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface.",
     "logo": "/assets/favicon.ico",
     "category": [
       "com"
@@ -570,7 +570,7 @@
   {
     "title": "jQuery",
     "url": "https://jquery.com/",
-    "description": "jQuery: The Write Less, Do More, JavaScript Library",
+    "description": "The Write Less, Do More, JavaScript Library",
     "logo": "https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico",
     "category": [
       "com"
@@ -579,7 +579,7 @@
   {
     "title": "Flow",
     "url": "https://flow.org/",
-    "description": "A Static Type Checker for JavaScript | Flow",
+    "description": "A Static Type Checker for JavaScript",
     "logo": "/img/favicon.png",
     "category": [
       "org"
@@ -588,7 +588,7 @@
   {
     "title": "Webpack",
     "url": "https://webpack.js.org/",
-    "description": "Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+    "description": "A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
     "logo": "/favicon.a3dd58d3142f7566.ico",
     "category": [
       "org"
@@ -676,7 +676,7 @@
   {
     "title": "JavaScript Weekly",
     "url": "https://javascriptweekly.com/",
-    "description": "The JavaScript Email Newsletter",
+    "description": "The JavaScript Email Newsletter.",
     "logo": "/favicon.png",
     "category": [
       "com"
@@ -748,7 +748,7 @@
   {
     "title": "GraphQL",
     "url": "https://graphql.org/",
-    "description": "GraphQL | A query language for your API",
+    "description": "A query language for your API",
     "logo": null,
     "category": [
       "org"
@@ -757,7 +757,7 @@
   {
     "title": "The Modern JavaScript Tutorial",
     "url": "https://javascript.info/",
-    "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
+    "description": "Simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
     "logo": "/img/favicon/favicon.png",
     "category": [
       "info"
@@ -766,7 +766,7 @@
   {
     "title": "码农书籍网",
     "url": "https://www.manongbook.com/",
-    "description": "码农书籍网,为程序员提供IT技术书籍pdf电子书下载,涵盖了java、python、人工智能、大数据、linux、php、c语言、Go、R语言等二十多种热门语言分类\n",
+    "description": "为程序员提供IT技术书籍pdf电子书下载,涵盖了java、python、人工智能、大数据、linux、php、c语言、Go、R语言等二十多种热门语言分类\n",
     "logo": null,
     "category": [
       "com"
@@ -775,7 +775,7 @@
   {
     "title": "Gitstar Ranking",
     "url": "https://gitstar-ranking.com/",
-    "description": "Gitstar Ranking is a GitHub star ranking. You can see top 1000 users, organizations and repositories. Find your favorite user. See what is your rank.",
+    "description": "You can see top 1000 users, organizations and repositories. Find your favorite user. See what is your rank.",
     "logo": "/favicon.ico",
     "category": [
       "com"
@@ -820,7 +820,7 @@
   {
     "title": "Developer Roadmaps",
     "url": "https://roadmap.sh/",
-    "description": "roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.",
+    "description": "A community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.",
     "logo": null,
     "category": []
   },
@@ -899,7 +899,7 @@
   {
     "title": "让我们相逢在更高处",
     "url": "https://meethigher.top/",
-    "description": "言成的个人博客网站，寓意为让我们相逢在更高处",
+    "description": "言成的个人博客网站，寓意为让我们相逢在更高处。",
     "logo": "https://meethigher.top/images/favicon.ico",
     "category": [
       "top"
