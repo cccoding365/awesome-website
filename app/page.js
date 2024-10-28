@@ -1,26 +1,26 @@
-"use client"
-import { useState, useEffect } from "react"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import Link from "next/link"
+"use client";
+import { useState, useEffect } from "react";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import Link from "next/link";
 
 export default function Home() {
-  const [websites, setWebsites] = useState([])
-  const [categories, setCategories] = useState([])
-  const [selectedCategory, setSelectedCategory] = useState("")
-  const [searchTerm, setSearchTerm] = useState("")
+  const [websites, setWebsites] = useState([]);
+  const [categories, setCategories] = useState([]);
+  const [selectedCategory, setSelectedCategory] = useState("");
+  const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
     fetch("/websites.json")
       .then((response) => response.json())
       .then((data) => {
-        setWebsites(data)
+        setWebsites(data);
         const allCategories = Array.from(
           new Set(data.flatMap((site) => site.category))
-        )
-        setCategories(allCategories)
-      })
-  }, [])
+        );
+        setCategories(allCategories);
+      });
+  }, []);
 
   const filteredWebsites = websites.filter(
     (website) =>
@@ -28,7 +28,7 @@ export default function Home() {
       (searchTerm
         ? website.title.toLowerCase().includes(searchTerm.toLowerCase())
         : true)
-  )
+  );
 
   return (
     <div className="container mx-auto flex-1 p-8">
@@ -69,5 +69,5 @@ export default function Home() {
         ))}
       </div>
     </div>
-  )
+  );
 }
