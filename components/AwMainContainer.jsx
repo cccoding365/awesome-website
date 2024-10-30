@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 import Link from "next/link"
 
 function randomBgColor(str) {
-    const tailwindColors = [
+    const bgColors = [
         "bg-slate-600",
         "bg-gray-600",
         "bg-zinc-600",
@@ -31,8 +31,8 @@ function randomBgColor(str) {
     for (let i = 0; i < str.length; i++) {
         hash = (hash + str.charCodeAt(i) * i) % 65536
     }
-    const index = Math.abs(hash) % tailwindColors.length
-    return tailwindColors[index]
+    const index = Math.abs(hash) % bgColors.length
+    return bgColors[index]
 }
 
 function WebsiteIcon({ baseUrl, title }) {
