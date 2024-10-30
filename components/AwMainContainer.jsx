@@ -44,12 +44,15 @@ export default function AwMainContainer() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <div className="flex flex-1 transition hover:shadow border rounded-lg bg-white">
-                            <div className="p-4">
+                        <div className="flex flex-1 items-center transition hover:shadow border rounded-lg bg-white p-4">
+                            <div className="text-3xl font-extrabold p-3 border-2 text-center mr-4 rounded-lg size-16 flex-shrink-0">
+                                {website.title.charAt(0).toUpperCase()}
+                            </div>
+                            <div>
                                 <h3 className="mb-2 text-xl font-bold line-clamp-1">
                                     {website.title}
                                 </h3>
-                                <p className="text-sm line-clamp-2 text-blue-gray-300">
+                                <p className="text-sm line-clamp-1 text-blue-gray-300" title={website.description}>
                                     {website.description || "No description"}
                                 </p>
                             </div>
