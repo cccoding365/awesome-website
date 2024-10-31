@@ -20,7 +20,7 @@ function IconSearch() {
 export default function AwNavbar() {
     return (
         <nav className="sticky top-0 block w-full p-4 bg-white">
-            <div className="flex flex-wrap items-center justify-between">
+            <div className="flex w-full flex-wrap items-center justify-between">
                 <div className="items-center hidden gap-x-2 lg:flex">
                     <div className="relative">
                         <IconSearch></IconSearch>

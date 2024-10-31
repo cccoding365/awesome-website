@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <div className="flex">
             <AwSidebar></AwSidebar>
-            <div>
+            <div className="flex flex-col w-full">
                 <AwNavbar></AwNavbar>
                 <AwMainContainer></AwMainContainer>
             </div>
