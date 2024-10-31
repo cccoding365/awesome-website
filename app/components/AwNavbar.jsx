@@ -19,10 +19,10 @@ function IconSearch() {
 
 export default function AwNavbar() {
     return (
-        <nav className="sticky top-0 block w-full p-4 bg-white">
-            <div className="flex w-full flex-wrap items-center justify-between">
-                <div className="items-center hidden gap-x-2 lg:flex">
-                    <div className="relative">
+        <nav className="sticky top-0 w-full p-6 bg-white z-10">
+            <div className="flex w-full items-center justify-between">
+                <div className="hidden sm:flex flex-1 items-center gap-2">
+                    <div className="relative flex flex-1">
                         <IconSearch></IconSearch>
                         <input
                             type="text"
@@ -31,13 +31,13 @@ export default function AwNavbar() {
                         />
                     </div>
                     <button
-                        className="rounded-md bg-black py-2 px-4 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-gray-700 focus:shadow-none active:bg-gray-700 hover:bg-gray-700 active:shadow-none"
+                        className="rounded-md bg-black py-2 px-6 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-gray-700 focus:shadow-none active:bg-gray-700 hover:bg-gray-700 active:shadow-none"
                         type="button"
                     >
                         Search
                     </button>
                 </div>
-                <div className="hidden lg:block">
+                <div className="hidden lg:block ml-6">
                     <ul className="flex flex-col gap-2 mt-2 mb-4 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
                         <li className="flex items-center p-1 text-sm gap-x-2 text-slate-600">
                             <a href="#" className="flex items-center">

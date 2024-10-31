@@ -1,12 +1,12 @@
-import AwMainContainer from "@/components/AwMainContainer"
-import AwSidebar from "@/components/AwSidebar"
-import AwNavbar from "@/components/AwNavbar"
+import AwMainContainer from "@/app/components/AwMainContainer"
+import AwSidebar from "@/app/components/AwSidebar"
+import AwNavbar from "@/app/components/AwNavbar"
 
 export default function Home() {
     return (
         <div className="flex">
             <AwSidebar></AwSidebar>
-            <div className="flex flex-col w-full">
+            <div className="flex-1">
                 <AwNavbar></AwNavbar>
                 <AwMainContainer></AwMainContainer>
             </div>
