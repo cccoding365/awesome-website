@@ -41,7 +41,7 @@
     "description": "A JavaScript 3D Library.",
     "logo": "files/favicon_white.ico",
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -50,7 +50,7 @@
     "description": "The Progressive JavaScript Framework.",
     "logo": "/logo.svg",
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -59,7 +59,7 @@
     "description": "Standard Tooling for Vue.js Development.",
     "logo": "/favicon.png",
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "description": "Collection of essential Vue Composition Utilities.",
     "logo": "/favicon.ico",
     "category": [
-      "org"
+      ""
     ]
   },
   {
@@ -95,7 +95,7 @@
     "description": "We are building the next generation of JavaScript tooling.",
     "logo": "/favicon.svg",
     "category": [
-      "dev"
+      "Official Website"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "description": "The full-stack React framework for the web.",
     "logo": "/favicon.ico",
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -113,7 +113,7 @@
     "description": "An open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.",
     "logo": "/icon.png",
     "category": [
-      "com"
+      "Official Website"
     ]
   },
   {
@@ -122,7 +122,7 @@
     "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. ",
     "logo": "/favicon-32x32.png",
     "category": [
-      "dev"
+      "Official Website"
     ]
   },
   {
@@ -131,7 +131,7 @@
     "description": "A JS library for predictable and maintainable global state management.",
     "logo": "/img/favicon/favicon.ico",
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -140,7 +140,7 @@
     "description": "Simple, scalable state management.",
     "logo": null,
     "category": [
-      "org"
+      "Official Website"
     ]
   },
   {
@@ -149,7 +149,7 @@
     "description": "",
     "logo": "/favicon-light.png",
     "category": [
-      "com"
+      "Official Website"
     ]
   },
   {
@@ -158,7 +158,7 @@
     "description": "The web development framework for building modern apps.",
     "logo": "/assets/icons/favicon.ico",
     "category": [
-      "dev"
+      "Official Website"
     ]
   },
   {
@@ -167,7 +167,7 @@
     "description": "Svelte • Web development for the rest of us",
     "logo": "/favicon.png",
     "category": [
-      "dev"
+      "Official Website"
     ]
   },
   {
@@ -884,7 +884,7 @@
     "description": "国光",
     "logo": "https://image.3001.net/images/20200922/16007336487809.jpg",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -893,7 +893,7 @@
     "description": "张鑫旭的个人博客首页，张鑫旭的技术作品，张鑫旭的生活成长",
     "logo": null,
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -902,7 +902,7 @@
     "description": "言成的个人博客网站，寓意为让我们相逢在更高处。",
     "logo": "https://meethigher.top/images/favicon.ico",
     "category": [
-      "top"
+      "Blogs"
     ]
   },
   {
@@ -911,7 +911,7 @@
     "description": "雨羊的博客",
     "logo": "https://b3logfile.com/file/2021/01/4087334-f4f28b3b.png",
     "category": [
-      "cn"
+      "Blogs"
     ]
   },
   {
@@ -920,7 +920,7 @@
     "description": "B3log 是一个开源组织，目标是将独立博客与论坛结合，形成一种新的网络社区体验，详细请看 B3log 构思。",
     "logo": "images/brand/b3log-128.png",
     "category": [
-      "org"
+      "Blogs"
     ]
   },
   {
@@ -929,7 +929,7 @@
     "description": "林羽凡网，林羽凡,勤勤恳恳写日记的普通人。",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -938,7 +938,7 @@
     "description": "翠翠的个人名片👋",
     "logo": "https://image.idealclover.cn/projects/Homepage/favicons/favicon.ico",
     "category": [
-      "top"
+      "Blogs"
     ]
   },
   {
@@ -947,7 +947,7 @@
     "description": "互联网+分享+科技+吐槽=孟坤博客",
     "logo": null,
     "category": [
-      "cn"
+      "Blogs"
     ]
   },
   {
@@ -956,7 +956,7 @@
     "description": "",
     "logo": null,
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -965,7 +965,7 @@
     "description": "大道至简 大简至极",
     "logo": "https://rawchen.com/favicon.ico",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -974,7 +974,7 @@
     "description": "心月云是温朝海创建的一个博客网站,里面可以分享有趣的生活,以及实用的技术。",
     "logo": "https://wen0224.oss-accelerate.aliyuncs.com/go/index.ico",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -982,7 +982,9 @@
     "url": "https://garryui.cn/",
     "description": "",
     "logo": null,
-    "category": []
+    "category": [
+      "Blogs"
+    ]
   },
   {
     "title": "Jetzihan",
@@ -990,7 +992,7 @@
     "description": "Jetzihan 个人博客",
     "logo": "/img/favicon.ico",
     "category": [
-      "app"
+      "Blogs"
     ]
   },
   {
@@ -999,7 +1001,7 @@
     "description": "生活随笔、前端乱炖、情感沟通、职业交流、旅行笔记",
     "logo": "/favicon.png",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1017,7 +1019,7 @@
     "description": "产品设计师、独立开发者、设计与科技领域自媒体博主",
     "logo": "https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1035,7 +1037,7 @@
     "description": "路人甲个人网站,展示前端开发作品,致力于web开发组件化,Keep It Simple,Stupid",
     "logo": "/public/image/favicon.png",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1044,7 +1046,7 @@
     "description": "",
     "logo": null,
     "category": [
-      "am"
+      "Blogs"
     ]
   },
   {
@@ -1053,7 +1055,7 @@
     "description": "Anthony Fu's Portfolio",
     "logo": "/favicon.svg",
     "category": [
-      "me"
+      "Blogs"
     ]
   },
   {
@@ -1062,7 +1064,7 @@
     "description": "Bennett Feely is a web developer based in Pittsburgh. He makes websites so you don't have to.",
     "logo": "_img/favicon-32x32.png",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1080,7 +1082,7 @@
     "description": "Hi, I'm Wang Chujiang, Fullstack developer from Shanghai, China.",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1089,7 +1091,7 @@
     "description": "Product Designer",
     "logo": "./assets/public/favicon.svg",
     "category": [
-      "cn"
+      "Blogs"
     ]
   },
   {
@@ -1098,7 +1100,7 @@
     "description": "这里是毛若昕的个人网站。",
     "logo": "images/icon_new.png",
     "category": [
-      "cn"
+      "Blogs"
     ]
   },
   {
@@ -1107,7 +1109,7 @@
     "description": "Java陈序员的个人博客网站",
     "logo": null,
     "category": [
-      "top"
+      "Blogs"
     ]
   },
   {
@@ -1125,7 +1127,7 @@
     "description": "Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Blogs"
     ]
   },
   {
@@ -1134,7 +1136,7 @@
     "description": "分享技术与科技生活",
     "logo": "/favicon.ico",
     "category": [
-      "top"
+      "Blogs"
     ]
   },
   {
@@ -1143,7 +1145,7 @@
     "description": "Laws of UX is a collection of best practices that designers can consider when building user interfaces.",
     "logo": "/icons/favicon.svg",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1152,7 +1154,7 @@
     "description": "",
     "logo": "https://fe-video-qc.xhscdn.com/fe-platfrom/17b3a2c05394eebe744d4e023a9b89c15b438b5a.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1161,7 +1163,7 @@
     "description": "站酷ZCOOL，中国设计师互动平台。深耕设计领域十八年，站酷聚集了1700万设计师、摄影师、插画师、艺术家、创意人，设计创意群体中具有较高的影响力与号召力。",
     "logo": "//static.zcool.cn/git_z/z/site/favicon.ico?version=1618914637608",
     "category": [
-      "cn"
+      "Design"
     ]
   },
   {
@@ -1169,7 +1171,9 @@
     "url": "https://www.checklist.design/",
     "description": "A collection of the best design practices.",
     "logo": null,
-    "category": []
+    "category": [
+      "Design"
+    ]
   },
   {
     "title": "Spline",
@@ -1177,7 +1181,7 @@
     "description": "Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, textures, and more.",
     "logo": "/images/icon_favicon16x16.png",
     "category": [
-      "design"
+      "Design"
     ]
   },
   {
@@ -1186,7 +1190,7 @@
     "description": "",
     "logo": null,
     "category": [
-      "net"
+      "Design"
     ]
   },
   {
@@ -1195,7 +1199,7 @@
     "description": "A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
     "logo": "img/favicon-16.png",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1204,7 +1208,7 @@
     "description": "A handpicked collection of beautiful color gradients for designers and developers",
     "logo": "static/images/favicon-32x32.png",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1213,7 +1217,7 @@
     "description": "Generate or browse beautiful color combinations for your designs.",
     "logo": "/assets/img/favicon.png",
     "category": [
-      "co"
+      "Design"
     ]
   },
   {
@@ -1222,7 +1226,7 @@
     "description": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
     "logo": "/img/favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1230,7 +1234,9 @@
     "url": "https://www.fontspace.com/",
     "description": "Free downloads of legally licensed fonts that are perfect for your design projects.",
     "logo": null,
-    "category": []
+    "category": [
+      "Design"
+    ]
   },
   {
     "title": "zhongguose 传统颜色",
@@ -1238,7 +1244,7 @@
     "description": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。AI制作中国色图片和视频",
     "logo": "img/favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1247,7 +1253,7 @@
     "description": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
     "logo": "favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1256,7 +1262,7 @@
     "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
     "logo": "/favicon.ico",
     "category": [
-      "co"
+      "Design"
     ]
   },
   {
@@ -1265,7 +1271,7 @@
     "description": "Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.",
     "logo": "/favicon.ico?v=fc0bfce6e1310f1539afec9729716721",
     "category": [
-      "bg"
+      "Design"
     ]
   },
   {
@@ -1274,7 +1280,7 @@
     "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
     "logo": "/img/colorhunt-favicon.svg?2",
     "category": [
-      "co"
+      "Design"
     ]
   },
   {
@@ -1283,7 +1289,7 @@
     "description": "color.adobe.com",
     "logo": null,
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1292,7 +1298,7 @@
     "description": "280 handpicked colors ready for COPY & PASTE",
     "logo": "static/favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1301,7 +1307,7 @@
     "description": "美叶，优质设计内容推荐平台。向设计从业者，推介不同设计细分领域的杰出代表。收集和归类优质设计内容，为设计师创作，提供有价值的灵感参照。助力设计，提升效率，为设计师研发高效能设计工具。",
     "logo": "https://icon.meiye.art/favicon.ico",
     "category": [
-      "art"
+      "Design"
     ]
   },
   {
@@ -1310,7 +1316,7 @@
     "description": "One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.",
     "logo": "https://onepagelove.com/wp-content/themes/onepagelove/frontend/img/favicon/favicon-32x32.png",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1319,7 +1325,7 @@
     "description": "免费下载设计素材：图标、照片、矢量插图和视频音乐。所有素材均由设计师制作 → 质量始终如一",
     "logo": "https://igoutu.cn/vue-static/landings/primary-landings/favs/icons8_fav_32×32.png",
     "category": [
-      "cn"
+      "Design"
     ]
   },
   {
@@ -1328,7 +1334,7 @@
     "description": "Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats",
     "logo": "https://www.flaticon.com/media/dist/min/img/favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1337,7 +1343,7 @@
     "description": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!",
     "logo": null,
     "category": [
-      "app"
+      "Tool Collection"
     ]
   },
   {
@@ -1346,7 +1352,7 @@
     "description": "Simple tool to find, customize and generate common SVG icons for your project",
     "logo": "/favicon-32.png",
     "category": [
-      "xyz"
+      "Design"
     ]
   },
   {
@@ -1355,7 +1361,7 @@
     "description": "Open source emojis for designers, developers and everyone else!",
     "logo": "/favicons/favicon.svg",
     "category": [
-      "org"
+      "Design"
     ]
   },
   {
@@ -1364,7 +1370,7 @@
     "description": "The best emojis for your Slack chats. Download all the custom emojis and animated emojis for your rooms. They work as custom Microsoft Teams Emojis too!",
     "logo": null,
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1373,7 +1379,7 @@
     "description": "IconPark, park your icon. Made by ByteDance",
     "logo": "https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1382,7 +1388,7 @@
     "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
     "logo": "favicon-32x32.png",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1391,7 +1397,7 @@
     "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
     "logo": "//www.remixicon.com/img/remixicon-logo.svg",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1399,7 +1405,9 @@
     "url": "https://heroicons.com/",
     "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
     "logo": null,
-    "category": []
+    "category": [
+      "Design"
+    ]
   },
   {
     "title": "Icônes",
@@ -1407,7 +1415,7 @@
     "description": "",
     "logo": "/favicon.svg",
     "category": [
-      "org"
+      "Design"
     ]
   },
   {
@@ -1425,7 +1433,7 @@
     "description": "The largest collection of UI/UX references and design inspiration for web and iOS. Explore tens of thousands of screenshots with advanced search capabilities",
     "logo": "https://refero.design/favicon.ico",
     "category": [
-      "design"
+      "Design"
     ]
   },
   {
@@ -1434,7 +1442,7 @@
     "description": "Boss设计-收集国外设计素材网站的资源平台。专注于收集国外设计素材和国外设计网站，以及超实用的设计师神器，只为设计初学者和设计师提供海量的资源平台。..",
     "logo": "https://www.bossdesign.cn/wp-content/themes/pinghsu/images/Bossdesign-ico.ico",
     "category": [
-      "cn"
+      "Inspiration"
     ]
   },
   {
@@ -1452,7 +1460,7 @@
     "description": "Topbook – 高效生活视频书",
     "logo": "https://cdn.labs.topbook.cc/icon.png",
     "category": [
-      "cc"
+      "Inspiration"
     ]
   },
   {
@@ -1461,7 +1469,7 @@
     "description": "今日热榜/大数据分析/PPT模板/设计导航/营销策略大全网址导航",
     "logo": "https://cdn.adguider.com/resource/images_addog/favicon.ico",
     "category": [
-      "vip"
+      "Inspiration"
     ]
   },
   {
@@ -1469,7 +1477,9 @@
     "url": "https://wallhaven.cc/",
     "description": "The best wallpapers on the Net!",
     "logo": null,
-    "category": []
+    "category": [
+      "Tool Collection"
+    ]
   },
   {
     "title": "dowebok",
@@ -1477,7 +1487,7 @@
     "description": "dowebok意为做好网站，为用户提供代码、素材、特效、教程、模板等建站服务。",
     "logo": null,
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1486,7 +1496,7 @@
     "description": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
     "logo": "https://file.ipadown.com/tophub/assets/images/favicon/android-icon-192x192.png",
     "category": [
-      "today"
+      "Inspiration"
     ]
   },
   {
@@ -1495,7 +1505,7 @@
     "description": "鸠摩搜索引擎 文档搜索引擎",
     "logo": "images/favicon.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1504,7 +1514,7 @@
     "description": "最适合初学者的编程工具资源社区，丰富的在线工具网址大全、高质量的技术博文分享、火爆的程序员交友讨论社区、完全免费开发API接口、海量免费程序员学习资料电子书下载网站。",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1513,7 +1523,7 @@
     "description": "VisuAlgo was conceptualised in 2011 by Dr Steven Halim as a tool to help his students better understand data structures and algorithms.",
     "logo": "https://visualgo.net/img/favicon.png",
     "category": [
-      "net"
+      "Tool Collection"
     ]
   },
   {
@@ -1522,7 +1532,7 @@
     "description": "中国最大的数字娱乐免费素材下载网站,免费提供免费的音效配乐|3D模型|视频|游戏素材资源下载。",
     "logo": "https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1531,7 +1541,7 @@
     "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
     "logo": "https://unsplash.com/favicon.ico",
     "category": [
-      "com"
+      "Design"
     ]
   },
   {
@@ -1540,7 +1550,7 @@
     "description": "A prompt theme engine for any shell.",
     "logo": "/img/favicons.svg",
     "category": [
-      "dev"
+      "Other"
     ]
   },
   {
@@ -1548,21 +1558,27 @@
     "url": "https://ddys.pro/",
     "description": "超清在线视频站",
     "logo": null,
-    "category": []
+    "category": [
+      "Vedio"
+    ]
   },
   {
     "title": "CN影院",
     "url": "https://www.cnysvod.com/",
     "description": "海外华人影院",
     "logo": null,
-    "category": []
+    "category": [
+      "Vedio"
+    ]
   },
   {
     "title": "爱壹帆",
     "url": "https://www.iyf.tv/",
     "description": "海量高清视频免费观看",
     "logo": null,
-    "category": []
+    "category": [
+      "Vedio"
+    ]
   },
   {
     "title": "在线工具",
@@ -1570,7 +1586,7 @@
     "description": "你的工具箱",
     "logo": null,
     "category": [
-      "lu"
+      "Tool Collection"
     ]
   },
   {
@@ -1579,7 +1595,7 @@
     "description": "一个免费便捷的在线工具站，无需下载，即来即用，简洁高效，让数据处理更简单和高效。",
     "logo": "/assets/images/favicon.png",
     "category": [
-      "cn"
+      "Tool Collection"
     ]
   },
   {
@@ -1587,7 +1603,9 @@
     "url": "https://pagespeed.web.dev/",
     "description": "使您的网页在所有设备上都能快速加载",
     "logo": null,
-    "category": []
+    "category": [
+      "Other"
+    ]
   },
   {
     "title": "LaTeX公式编辑器",
@@ -1595,7 +1613,7 @@
     "description": "识别图片中的公式！免费的在线LaTeX公式编辑器。",
     "logo": null,
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1604,7 +1622,7 @@
     "description": "近邻词汇检索，一个能够查找近似短语和相关术语的工具。支持检索成语、诗歌流行语。多种姿势夸人、写文助手、文案灵感。",
     "logo": "/common/static/img/bird.favicon.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1613,7 +1631,7 @@
     "description": "TinyPNG – Compress WebP, PNG and JPEG images intelligently",
     "logo": "https://tinypng.com/images/favicon.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1622,7 +1640,7 @@
     "description": "iLoveIMG is the webapp that lets you modify images in seconds for free. Crop, resize, compress, convert, and more in just a few clicks!",
     "logo": "/img/favicons-img/favicon-16x16.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1631,7 +1649,7 @@
     "description": "This uniquely powerful tool uses the LAB color space to generate colorful, bright gradients. Find a beautiful gradient for your next project.",
     "logo": null,
     "category": [
-      "co"
+      "Tool Collection"
     ]
   },
   {
@@ -1640,7 +1658,7 @@
     "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线文字对比工具",
     "logo": null,
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1649,7 +1667,7 @@
     "description": "",
     "logo": "about:blank",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1658,7 +1676,7 @@
     "description": "Your Online Font Converter Converting .ttf and .otf to .woff, .eot and.svg",
     "logo": null,
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1667,7 +1685,7 @@
     "description": "Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.",
     "logo": null,
     "category": [
-      "co"
+      "Tool Collection"
     ]
   },
   {
@@ -1676,7 +1694,7 @@
     "description": "Method Draw is an open source SVG editor for the web, you can use it online without signing up.",
     "logo": "images/favicon.svg",
     "category": [
-      "ac"
+      "Tool Collection"
     ]
   },
   {
@@ -1685,7 +1703,7 @@
     "description": "Effortlessly convert Excel (or other spreadsheets) to Markdown Table. Utilize the Table Editor to create and modify Markdown Table online.",
     "logo": "/images/favicon.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1694,7 +1712,7 @@
     "description": "文本转语音，文本朗读，让机器能够说话。构建自然说话的应用和服务，从 147 种语言和变体中选择 456 种语音。借助高表现力和类似人类的神经语音，让你的方案生动起来。",
     "logo": "img/speech.png",
     "category": [
-      "cn"
+      "Tool Collection"
     ]
   },
   {
@@ -1703,7 +1721,7 @@
     "description": "支持单押多押;海量词库,保持更新;文案/金句/诗词/Rap歌词创作者的必备神器.",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1712,7 +1730,7 @@
     "description": "免费API,为您收集免费的接口服务,做一个api的搬运工",
     "logo": "/image/logo.ico",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1721,7 +1739,7 @@
     "description": "Angrytools offer free online tools for web development and mobile application. online gradient generator for browser and android devices",
     "logo": "/include/img/favicon-32x32.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1730,7 +1748,7 @@
     "description": "CSS Grid layout generator helps to create grid box container and grid items that adjust its position as per grid rules.",
     "logo": "/include/img/favicon-32x32.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1739,7 +1757,7 @@
     "description": "Concise, consistent, and legible badges",
     "logo": "/img/favicon.ico",
     "category": [
-      "io"
+      "Tool Collection"
     ]
   },
   {
@@ -1748,7 +1766,7 @@
     "description": "Come to WebGradients.com for 180 beautiful linear gradients in CSS3, Photoshop and Sketch. This collection is curated by top designers and totally free.",
     "logo": "favicons/favicon-196x196.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1757,7 +1775,8 @@
     "description": "A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls!",
     "logo": null,
     "category": [
-      "xyz"
+      "Design",
+      "Inspiration"
     ]
   },
   {
@@ -1765,7 +1784,9 @@
     "url": "https://certbot.eff.org/",
     "description": "",
     "logo": null,
-    "category": []
+    "category": [
+      "Tool Collection"
+    ]
   },
   {
     "title": "PokéAPI",
@@ -1773,7 +1794,7 @@
     "description": "All the Pokémon data you'll ever need in one place, easily accessible through a modern free open-source RESTful API.",
     "logo": "/pokeapi_192_square.png",
     "category": [
-      "co"
+      "Tool Collection"
     ]
   },
   {
@@ -1782,7 +1803,7 @@
     "description": "A magical documentation generator.",
     "logo": "_media/favicon.ico",
     "category": [
-      "org"
+      "Tool Collection"
     ]
   },
   {
@@ -1791,7 +1812,7 @@
     "description": "The web's scaffolding tool for modern webapps | Yeoman",
     "logo": "/static/favicon.b25e58c4b8.ico",
     "category": [
-      "io"
+      "Tool Collection"
     ]
   },
   {
@@ -1800,7 +1821,7 @@
     "description": "一款基于css框架的网页字体图标库，它完全免费",
     "logo": null,
     "category": [
-      "cn"
+      "Design"
     ]
   },
   {
@@ -1809,7 +1830,7 @@
     "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!",
     "logo": "promo/icon512.png",
     "category": [
-      "com"
+      "Tool Collection"
     ]
   },
   {
@@ -1818,7 +1839,7 @@
     "description": "The Useless Web Button... take me somewhere... useless. The perfect button for the bored, or those looking to find random sites online!",
     "logo": null,
     "category": [
-      "com"
+      "Other"
     ]
   },
   {
@@ -1827,7 +1848,7 @@
     "description": "",
     "logo": null,
     "category": [
-      "com"
+      "Other"
     ]
   },
   {
@@ -1836,7 +1857,7 @@
     "description": "",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Other"
     ]
   },
   {
@@ -1845,7 +1866,7 @@
     "description": "Silk – Interactive Generative Art",
     "logo": "/favicon.ico",
     "category": [
-      "com"
+      "Other"
     ]
   },
   {
@@ -1854,7 +1875,7 @@
     "description": "You will hallucinate! This mind-melting optical illusion will warp and distort your vision. Hallucinations without drugs!",
     "logo": "https://strobe.cool/assets/images/icon-16.png",
     "category": [
-      "cool"
+      "Other"
     ]
   },
   {
@@ -1863,7 +1884,7 @@
     "description": "Creative developer living in Paris, freelancer, former lead developer at Immersive Garden, former developer at Uzik and teacher.",
     "logo": "/favicon/favicon-32x32.png",
     "category": [
-      "com"
+      "Other"
     ]
   },
   {
@@ -1872,7 +1893,7 @@
     "description": "彩虹屁,朋友圈文案,肯德基文案,疯狂星期四文案,骂人宝典,祖安语录",
     "logo": "/favicon.ico",
     "category": [
-      "app"
+      "Tool Collection"
     ]
   },
   {
@@ -1880,7 +1901,9 @@
     "url": "https://perchance.org/ai-girl-image-generator",
     "description": "",
     "logo": null,
-    "category": []
+    "category": [
+      "Tool Collection"
+    ]
   },
   {
     "title": "Engaged",
@@ -1888,7 +1911,7 @@
     "description": "We are a leading omnichannel brand activation agency helping brands get results by engaging with people in memorable experiences.",
     "logo": "/favicon-dark.ico",
     "category": [
-      "be"
+      "Other"
     ]
   }
 ]
