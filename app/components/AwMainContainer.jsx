@@ -1,6 +1,7 @@
 "use client"
 import { useState, useEffect } from "react"
 import Link from "next/link"
+import { useStore } from "@/app/store"
 
 function randomBgColor(str) {
     const bgColors = [
@@ -69,8 +70,9 @@ function WebsiteIcon({ baseUrl, title }) {
 export default function AwMainContainer() {
     const [websites, setWebsites] = useState([])
     const [categories, setCategories] = useState([])
-    const [selectedCategory, setSelectedCategory] = useState("")
     const [searchTerm, setSearchTerm] = useState("")
+
+    const { category } = useStore()
 
     useEffect(() => {
         fetch("/websites.json")
@@ -86,9 +88,7 @@ export default function AwMainContainer() {
 
     const filteredWebsites = websites.filter(
         (website) =>
-            (selectedCategory
-                ? website.category.includes(selectedCategory)
-                : true) &&
+            (category ? website.category.includes(category) : true) &&
             (searchTerm
                 ? website.title.toLowerCase().includes(searchTerm.toLowerCase())
                 : true)
