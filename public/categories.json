@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "All"
+    },
+    {
+        "id": 1,
+        "name": "Frontend"
+    },
+    {
+        "id": 2,
+        "name": "Resource"
+    },
+    {
+        "id": 3,
+        "name": "Tool"
+    },
+    {
+        "id": 4,
+        "name": "Inspiration"
+    },
+    {
+        "id": 5,
+        "name": "Blog"
+    },
+    {
+        "id": 6,
+        "name": "Frontend"
+    },
+    {
+        "id": 7,
+        "name": "Frontend"
+    },
+    {
+        "id": 8,
+        "name": "Frontend"
+    },
+    {
+        "id": 9,
+        "name": "Frontend"
+    }
+]

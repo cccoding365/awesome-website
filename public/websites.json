@@ -1,10 +1,14 @@
 [
   {
-    "title": "animata",
+    "title": "Animata",
     "url": "https://animata.design/",
     "description": "Hand-crafted animated components that you can copy and paste into your apps.",
     "logo": "/favicon-16x16.png",
     "category": [
+      {
+        "id": 4,
+        "name": "Inspiration"
+      },
       "design"
     ]
   },
