@@ -19,9 +19,9 @@ export default function AwSidebar() {
     const { updateCategory, category: selectedCategory } = useStore()
 
     return (
-        <div className="sticky top-0 hidden md:flex w-full h-screen max-w-[18rem] flex-col bg-white bg-clip-border p-4 text-gray-700">
+        <div className="sticky top-0 hidden md:flex w-full h-screen max-w-[18rem] flex-col bg-clip-border p-4 text-text-200">
             <div
-                className="p-4 mb-2 cursor-pointer"
+                className="p-4 mb-2 cursor-pointer text-text-100"
                 onClick={() => updateCategory("")}
             >
                 <h5 className="block font-sans text-2xl font-semibold text-center">
@@ -35,8 +35,8 @@ export default function AwSidebar() {
                         key={index}
                         role="button"
                         className={clsx(
-                            "flex items-center w-full p-3 rounded-lg duration-300 hover:bg-gray-200",
-                            selectedCategory === category && "bg-gray-100"
+                            "flex items-center w-full p-3 rounded-lg duration-300 hover:bg-bg-200",
+                            selectedCategory === category && "text-text-100 bg-bg-200"
                         )}
                         onClick={() => updateCategory(category)}
                     >

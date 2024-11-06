@@ -4,7 +4,7 @@ import AwNavbar from "@/app/components/AwNavbar"
 
 export default function Home() {
     return (
-        <div className="flex">
+        <div className="flex bg-bg-100">
             <AwSidebar></AwSidebar>
             <div className="flex-1">
                 <AwNavbar></AwNavbar>

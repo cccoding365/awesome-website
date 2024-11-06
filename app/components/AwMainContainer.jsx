@@ -56,9 +56,9 @@ function WebsiteIcon({ baseUrl, title }) {
                 <div
                     className={`${randomBgColor(
                         title
-                    )} size-16 flex justify-center items-center`}
+                    )} size-16 flex justify-center items-center bg-accent-100`}
                 >
-                    <span className="text-3xl font-extrabold font-serif text-white">
+                    <span className="text-3xl font-extrabold font-serif text-text-200">
                         {title.charAt(0).toUpperCase()}
                     </span>
                 </div>
@@ -105,17 +105,17 @@ export default function AwMainContainer() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <div className="flex overflow-hidden items-center transition hover:shadow-lg border rounded-lg p-4">
+                        <div className="bg-bg-200 flex overflow-hidden items-center duration-300 hover:shadow-primary-200 shadow rounded-lg p-4">
                             <WebsiteIcon
                                 baseUrl={website.url}
                                 title={website.title}
                             ></WebsiteIcon>
                             <div>
-                                <h3 className="mb-2 text-xl font-bold line-clamp-1">
+                                <h3 className="mb-2 text-xl font-bold line-clamp-1 text-text-100">
                                     {website.title}
                                 </h3>
                                 <p
-                                    className="text-sm line-clamp-1 text-blue-gray-300"
+                                    className="text-sm line-clamp-1 text-blue-gray-300 text-text-200"
                                     title={website.description}
                                 >
                                     {website.description || "No description"}
