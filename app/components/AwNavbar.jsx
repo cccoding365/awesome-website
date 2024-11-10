@@ -37,7 +37,7 @@ export default function AwNavbar() {
                         Search
                     </button>
                 </div>
-                <div className="hidden lg:block ml-6 text-text-200">
+                {/* <div className="hidden lg:block ml-6 text-text-200">
                     <ul className="flex flex-col gap-2 mt-2 mb-4 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
                         <li className="flex items-center p-1 text-sm gap-x-2">
                             <a href="#" className="flex items-center">
@@ -60,7 +60,7 @@ export default function AwNavbar() {
                             </a>
                         </li>
                     </ul>
-                </div>
+                </div> */}
             </div>
         </nav>
     )
